@@ -1,8 +1,7 @@
-jupyter_dash 
 dash
-html, dcc, Input, Output, dash_table  
+plotly.express
+html, dcc, Input, Output, dash_table,callback  
 dash_bootstrap_components
 pandas
-matplotlib.pyplot
-mpld3
+numpy
 gunicorn
