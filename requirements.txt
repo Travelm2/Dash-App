@@ -1,0 +1,8 @@
+jupyter_dash 
+dash
+html, dcc, Input, Output, dash_table  
+dash_bootstrap_components
+pandas
+matplotlib.pyplot
+mpld3
+gunicorn
